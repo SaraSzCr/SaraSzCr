@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there I'm Sara👋
 
-<!--
-**SaraSzCr/SaraSzCr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently self learning after finishing Adalab Bootcamp (Full-Stack web Development)
+- 👯 I’m looking expand my knowledge and my skills and be a fit in your great team.
+- 💬 Feel free to ask me if you have any question or curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+
+HTML5 , CSS3, JavaScript, React JS
+MongoDB,  MySQL, Express JS, NodeJS Git “Zeplin” “Slack”, "Zoom", "npm", Postman
+
+
+### Soft Skills
+
+* Flexiblility
+* Time management
+* Asertive communication
+* Teamwork
+* Problem solving
+
+
+- 📫 How to reach me: 
+Email: scresposara@gmail.com
+[Linkedin] (www.linkedin.com/in/sara-sanchez-crespo)
+
+
