@@ -3,7 +3,7 @@
 ### Junior Full-Stack Developer 👩🏻‍💻
 
 - 🔭 I’m currently self learning after finishing Adalab Bootcamp (Full-Stack web Development)
-- 👯 I’m looking expand my knowledge and my skills and be a fit in your great team
+- 👯 I’m looking to expand my knowledge and my skills and be a fit in your great team
 - 💬 Feel free to ask me if you have any question or curiosity.
 
 ### Languages and tools 🛠️
